@@ -15,7 +15,7 @@ apikey = "yourapikey"
 url = "https://www.googleapis.com/geolocation/v1/geolocate?key="+ apikey
 
 WIFI_SSID = 'CASA'
-WIFI_PASSWORD = '4E17@27!'
+WIFI_PASSWORD = '321321'
 
 # turn off the WiFi Access Point
 ap_if = network.WLAN(network.AP_IF)
